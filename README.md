@@ -13,8 +13,18 @@ r*w-s
 '-13
 5-qw
 e-1+ 
- -w+as-81 1 2 
- *1*4-13 refdawfa2w
+ -w+as
+  -8
+   11
+    2 
+  *1
+  *4
+  -13
+ re
+  f
+   daw
+   fa
+    2w
  8r2-4w
  a- q
  512183qw
